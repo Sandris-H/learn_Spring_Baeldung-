@@ -8,3 +8,4 @@
   #### Module 7 - Templating Engines and Spring MVC
   #### Module 8 - Building a REST API
   #### Module 9 - Advanced Features in Spring
+  #### Projects
