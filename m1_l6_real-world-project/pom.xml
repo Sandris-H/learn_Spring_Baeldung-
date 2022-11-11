@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <description>Learn Spring Classes: Module 1 - The Real World Project We're Building Lesson</description>
+    <description>Module 1 - The Real World Project We're Building Lesson</description>
     <name>task-management-app-lesson</name>
 
     <groupId>com.ahanchar</groupId>
@@ -13,8 +13,8 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.4.RELEASE</version>
-        <relativePath /> 
+        <version>2.7.5</version>
+        <relativePath />
     </parent>
 
     <dependencies>
@@ -41,6 +41,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
+
     </properties>
 
 </project>
